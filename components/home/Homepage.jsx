@@ -1,5 +1,5 @@
 import BannerSection from "./Banner";
-import ChooseSection from "./whyChooseUs";
+import ChooseSection from "./WhyChooseUs";
 import AboutSection from "./About";
 import ServicesSection from "./Services";
 import ReviewsSection from "./Reviews";
