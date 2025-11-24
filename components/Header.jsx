@@ -507,7 +507,7 @@ function Header() {
 												</li>
 
 												<li>
-													<Link to="/abous-us">
+													<Link to="/about">
 														About Us
 													</Link>
 												</li>
