@@ -26,7 +26,7 @@ import React from 'react'
               <div className="col-lg-3 col-sm-6">
                 <div className="team-item img-reveal-2">
                   <div className="team-img">
-                    <img src="assets/images/team/team-1.webp" alt="Image"/>
+                    <img src="/assets/images/team/team-1.webp" alt="Image"/>
                     <div className="social-links">
                       <span className="share-icon"><i className="tji-share"></i></span>
                       <ul>
@@ -45,7 +45,7 @@ import React from 'react'
               <div className="col-lg-3 col-sm-6">
                 <div className="team-item img-reveal-2">
                   <div className="team-img">
-                    <img src="assets/images/team/team-2.webp" alt="Image"/>
+                    <img src="/assets/images/team/team-2.webp" alt="Image"/>
                     <div className="social-links">
                       <span className="share-icon"><i className="tji-share"></i></span>
                       <ul>
@@ -64,7 +64,7 @@ import React from 'react'
               <div className="col-lg-3 col-sm-6">
                 <div className="team-item img-reveal-2">
                   <div className="team-img">
-                    <img src="assets/images/team/team-3.webp" alt="Image"/>
+                    <img src="/assets/images/team/team-3.webp" alt="Image"/>
                     <div className="social-links">
                       <span className="share-icon"><i className="tji-share"></i></span>
                       <ul>
@@ -83,7 +83,7 @@ import React from 'react'
               <div className="col-lg-3 col-sm-6">
                 <div className="team-item img-reveal-2">
                   <div className="team-img">
-                    <img src="assets/images/team/team-4.webp" alt="Image"/>
+                    <img src="/assets/images/team/team-4.webp" alt="Image"/>
                     <div className="social-links">
                       <span className="share-icon"><i className="tji-share"></i></span>
                       <ul>

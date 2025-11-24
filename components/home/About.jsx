@@ -3,7 +3,7 @@ export default function AboutSection() {
 		<section className="tj-about-section fix section-gap section-gap-x">
 			<div
 				className="bg-img"
-				data-bg-image="assets/images/bg/common-bg.webp"
+				data-bg-image="/assets/images/bg/common-bg.webp"
 			></div>
 
 			<div className="container">
@@ -17,7 +17,7 @@ export default function AboutSection() {
 						>
 							<div className="about-img">
 								<img
-									src="assets/images/about/about-img-1.webp"
+									src="/assets/images/about/about-img-1.webp"
 									alt="Image"
 								/>
 							</div>
@@ -56,7 +56,7 @@ export default function AboutSection() {
 									<div className="author-info">
 										<div className="author-img">
 											<img
-												src="assets/images/testimonial/client-1.webp"
+												src="/assets/images/testimonial/client-1.webp"
 												alt="Image"
 											/>
 										</div>
@@ -71,7 +71,7 @@ export default function AboutSection() {
 
 									<div className="signature">
 										<img
-											src="assets/images/about/signature.webp"
+											src="/assets/images/about/signature.webp"
 											alt="Image"
 										/>
 									</div>
@@ -151,11 +151,11 @@ export default function AboutSection() {
 
 							<div
 								className="circle-text-wrap award-circle"
-								data-bg-image="assets/images/about/award-circle-bg.webp"
+								data-bg-image="/assets/images/about/award-circle-bg.webp"
 							>
 								<span
 									className="circle-text"
-									data-bg-image="assets/images/about/award-circle-text.png"
+									data-bg-image="/assets/images/about/award-circle-text.png"
 								></span>
 
 								<span className="circle-icon">

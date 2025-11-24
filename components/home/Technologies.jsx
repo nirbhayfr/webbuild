@@ -26,7 +26,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/gitlab.svg"
+												src="/assets/images/icons/gitlab.svg"
 												alt=""
 											/>
 										</div>
@@ -46,7 +46,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/ovhcloud.svg"
+												src="/assets/images/icons/ovhcloud.svg"
 												alt=""
 											/>
 										</div>
@@ -66,7 +66,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/chatgpt.svg"
+												src="/assets/images/icons/chatgpt.svg"
 												alt=""
 											/>
 										</div>
@@ -86,7 +86,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/notion.svg"
+												src="/assets/images/icons/notion.svg"
 												alt=""
 											/>
 										</div>
@@ -109,7 +109,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/gitlab.svg"
+												src="/assets/images/icons/gitlab.svg"
 												alt=""
 											/>
 										</div>
@@ -129,7 +129,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/ovhcloud.svg"
+												src="/assets/images/icons/ovhcloud.svg"
 												alt=""
 											/>
 										</div>
@@ -149,7 +149,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/chatgpt.svg"
+												src="/assets/images/icons/chatgpt.svg"
 												alt=""
 											/>
 										</div>
@@ -169,7 +169,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/notion.svg"
+												src="/assets/images/icons/notion.svg"
 												alt=""
 											/>
 										</div>
@@ -194,7 +194,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/zoom.svg"
+												src="/assets/images/icons/zoom.svg"
 												alt=""
 											/>
 										</div>
@@ -214,7 +214,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/slack.svg"
+												src="/assets/images/icons/slack.svg"
 												alt=""
 											/>
 										</div>
@@ -234,7 +234,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/clickup.svg"
+												src="/assets/images/icons/clickup.svg"
 												alt=""
 											/>
 										</div>
@@ -254,7 +254,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/dropbox.svg"
+												src="/assets/images/icons/dropbox.svg"
 												alt=""
 											/>
 										</div>
@@ -277,7 +277,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/zoom.svg"
+												src="/assets/images/icons/zoom.svg"
 												alt=""
 											/>
 										</div>
@@ -297,7 +297,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/slack.svg"
+												src="/assets/images/icons/slack.svg"
 												alt=""
 											/>
 										</div>
@@ -317,7 +317,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/clickup.svg"
+												src="/assets/images/icons/clickup.svg"
 												alt=""
 											/>
 										</div>
@@ -337,7 +337,7 @@ export default function TechnologiesSection() {
 									<div className="tech-item">
 										<div className="tech-icon">
 											<img
-												src="assets/images/icons/dropbox.svg"
+												src="/assets/images/icons/dropbox.svg"
 												alt=""
 											/>
 										</div>

@@ -90,7 +90,7 @@ function Footer() {
 			<footer className="tj-footer-section footer-1 section-gap-x">
 				<div
 					className="bg-img"
-					data-bg-image="assets/images/footer/footer-bg.webp"
+					data-bg-image="/assets/images/footer/footer-bg.webp"
 				></div>
 
 				<div className="footer-main-area">
@@ -103,7 +103,7 @@ function Footer() {
 										<div className="footer-logo">
 											<a href="index.html">
 												{/* <img
-													src="assets/images/logos/primary-logo.webp"
+													src="/assets/images/logos/primary-logo.webp"
 													alt="Logo"
 												/> */}
 												<h2>WebBuild</h2>
@@ -122,13 +122,13 @@ function Footer() {
 										<div className="download-buttons">
 											<a href="https://play.google.com/store/games">
 												<img
-													src="assets/images/footer/google-play.webp"
+													src="/assets/images/footer/google-play.webp"
 													alt=""
 												/>
 											</a>
 											<a href="https://www.apple.com/app-store/">
 												<img
-													src="assets/images/footer/app-store.webp"
+													src="/assets/images/footer/app-store.webp"
 													alt=""
 												/>
 											</a>

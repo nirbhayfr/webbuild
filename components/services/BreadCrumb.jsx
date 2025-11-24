@@ -4,7 +4,7 @@ const BreadCrumb = () => {
   return (
     <div>
           <section className="tj-page-header fix">
-          <div className="hero-bg" data-bg-image="assets/images/hero/hero-bg.webp"></div>
+          <div className="hero-bg" data-bg-image="/assets/images/hero/hero-bg.webp"></div>
           <div className="container">
             <div className="row">
               <div className="col-lg-12">

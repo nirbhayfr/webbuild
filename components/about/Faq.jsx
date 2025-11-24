@@ -25,7 +25,7 @@ import React from 'react'
                     <div className="faq-contact-item">
                       <ul className="faq-contact-list">
                         <li>
-                          <img src="assets/images/testimonial/client-1.webp" alt=""/>
+                          <img src="/assets/images/testimonial/client-1.webp" alt=""/>
                         </li>
                         <li>
                           <i className="tji-phone-2"></i>

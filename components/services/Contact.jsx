@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div>
       <section className="tj-contact-section fix section-gap section-gap-x">
-          <div className="bg-img" data-bg-image="assets/images/bg/common-bg-2.webp"></div>
+          <div className="bg-img" data-bg-image="/assets/images/bg/common-bg-2.webp"></div>
           <div className="container">
             <div className="row">
               <div className="col-xl-6 col-lg-5">

@@ -137,7 +137,7 @@ function Header() {
 									className="mobile_logo"
 								>
 									<img
-										src="assets/images/logos/primary-logo.webp"
+										src="/assets/images/logos/primary-logo.webp"
 										alt="Logo"
 									/>
 								</a>
@@ -301,7 +301,7 @@ function Header() {
 									className="mobile_logo"
 								>
 									<img
-										src="assets/images/logos/primary-logo.webp"
+										src="/assets/images/logos/primary-logo.webp"
 										alt="Logo"
 									/>
 								</a>
@@ -487,7 +487,7 @@ function Header() {
 											href="index.html"
 										>
 											{/* <img
-												src="assets/images/logos/primary-logo.webp"
+												src="/assets/images/logos/primary-logo.webp"
 												alt="Logo"
 											/> */}
 											<h2>WebBuild</h2>

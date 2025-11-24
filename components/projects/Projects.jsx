@@ -10,7 +10,7 @@ const Projects = () => {
                 <div className="col-12 col-md-6 col-xl-4">
                   <div className="project-item">
                     <div className="project-img">
-                      <img src="assets/images/project/project-2.webp" alt=""/>
+                      <img src="/assets/images/project/project-2.webp" alt=""/>
                     </div>
                     <div className="project-content">
                       <div className="content-inner">
@@ -26,7 +26,7 @@ const Projects = () => {
                 <div className="col-12 col-md-6 col-xl-4">
                   <div className="project-item">
                     <div className="project-img">
-                      <img src="assets/images/project/project-3.webp" alt=""/>
+                      <img src="/assets/images/project/project-3.webp" alt=""/>
                     </div>
                     <div className="project-content">
                       <div className="content-inner">
@@ -42,7 +42,7 @@ const Projects = () => {
                 <div className="col-12 col-md-6 col-xl-4">
                   <div className="project-item">
                     <div className="project-img">
-                      <img src="assets/images/project/project-4.webp" alt=""/>
+                      <img src="/assets/images/project/project-4.webp" alt=""/>
                     </div>
                     <div className="project-content">
                       <div className="content-inner">
@@ -58,7 +58,7 @@ const Projects = () => {
                 <div className="col-12 col-md-6 col-xl-4">
                   <div className="project-item">
                     <div className="project-img">
-                      <img src="assets/images/project/project-1.webp" alt=""/>
+                      <img src="/assets/images/project/project-1.webp" alt=""/>
                     </div>
                     <div className="project-content">
                       <div className="content-inner">
@@ -74,7 +74,7 @@ const Projects = () => {
                 <div className="col-12 col-md-6 col-xl-4">
                   <div className="project-item">
                     <div className="project-img">
-                      <img src="assets/images/project/project-5.webp" alt=""/>
+                      <img src="/assets/images/project/project-5.webp" alt=""/>
                     </div>
                     <div className="project-content">
                       <div className="content-inner">
@@ -90,7 +90,7 @@ const Projects = () => {
                 <div className="col-12 col-md-6 col-xl-4">
                   <div className="project-item">
                     <div className="project-img">
-                      <img src="assets/images/project/project-6.webp" alt=""/>
+                      <img src="/assets/images/project/project-6.webp" alt=""/>
                     </div>
                     <div className="project-content">
                       <div className="content-inner">

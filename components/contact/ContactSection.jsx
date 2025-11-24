@@ -2,12 +2,12 @@ import { useEffect } from "react"
 import React  from 'react'
 
 const ContactSection = () => {
-   useEffect(() => {
-    const map = new window.google.maps.Map(document.getElementById("map"), {
-      center: { lat: 28.6139, lng: 77.2090 }, 
-      zoom: 12,
-    });
-  }, []);
+  //  useEffect(() => {
+  //   const map = new window.google.maps.Map(document.getElementById("map"), {
+  //     center: { lat: 28.6139, lng: 77.2090 }, 
+  //     zoom: 12,
+  //   });
+  // }, []);
 
   return (
     <>   

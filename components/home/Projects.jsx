@@ -126,7 +126,7 @@ export default function ProjectsSectionSlider() {
 										<div className="project-item">
 											<div className="project-img img-reveal-2">
 												<img
-													src={`assets/images/project/project-${n}.webp`}
+													src={`/assets/images/project/project-${n}.webp`}
 													alt={`Project ${n}`}
 												/>
 											</div>

@@ -12,7 +12,7 @@ const Banner = () => {
 					className="hero-bg"
 					style={{
 						backgroundImage:
-							"url('assets/images/hero/hero-bg.webp')",
+							"url('/assets/images/hero/hero-bg.webp')",
 					}}
 				></div>
 
@@ -93,7 +93,7 @@ const Banner = () => {
 									data-direction="right"
 								>
 									<img
-										src="assets/images/hero/hero-img.webp"
+										src="/assets/images/hero/hero-img.webp"
 										alt="Image"
 									/>
 								</div>
@@ -120,25 +120,25 @@ const Banner = () => {
 										<ul>
 											<li>
 												<img
-													src="assets/images/testimonial/client-1.webp"
+													src="/assets/images/testimonial/client-1.webp"
 													alt="client"
 												/>
 											</li>
 											<li>
 												<img
-													src="assets/images/testimonial/client-2.webp"
+													src="/assets/images/testimonial/client-2.webp"
 													alt="client"
 												/>
 											</li>
 											<li>
 												<img
-													src="assets/images/testimonial/client-3.webp"
+													src="/assets/images/testimonial/client-3.webp"
 													alt="client"
 												/>
 											</li>
 											<li>
 												<img
-													src="assets/images/testimonial/client-4.webp"
+													src="/assets/images/testimonial/client-4.webp"
 													alt="client"
 												/>
 											</li>
@@ -236,7 +236,7 @@ const Banner = () => {
 								<SwiperSlide className="client-item">
 									<div className="client-logo">
 										<img
-											src="assets/images/brands/brand-1.webp"
+											src="/assets/images/brands/brand-1.webp"
 											alt="Brand 1"
 										/>
 									</div>
@@ -245,7 +245,7 @@ const Banner = () => {
 								<SwiperSlide className="client-item">
 									<div className="client-logo">
 										<img
-											src="assets/images/brands/brand-2.webp"
+											src="/assets/images/brands/brand-2.webp"
 											alt="Brand 2"
 										/>
 									</div>
@@ -254,7 +254,7 @@ const Banner = () => {
 								<SwiperSlide className="client-item">
 									<div className="client-logo">
 										<img
-											src="assets/images/brands/brand-3.webp"
+											src="/assets/images/brands/brand-3.webp"
 											alt="Brand 3"
 										/>
 									</div>
@@ -263,7 +263,7 @@ const Banner = () => {
 								<SwiperSlide className="client-item">
 									<div className="client-logo">
 										<img
-											src="assets/images/brands/brand-4.webp"
+											src="/assets/images/brands/brand-4.webp"
 											alt="Brand 4"
 										/>
 									</div>
@@ -272,7 +272,7 @@ const Banner = () => {
 								<SwiperSlide className="client-item">
 									<div className="client-logo">
 										<img
-											src="assets/images/brands/brand-5.webp"
+											src="/assets/images/brands/brand-5.webp"
 											alt="Brand 5"
 										/>
 									</div>
@@ -281,7 +281,7 @@ const Banner = () => {
 								<SwiperSlide className="client-item">
 									<div className="client-logo">
 										<img
-											src="assets/images/brands/brand-6.webp"
+											src="/assets/images/brands/brand-6.webp"
 											alt="Brand 6"
 										/>
 									</div>

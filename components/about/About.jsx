@@ -14,7 +14,7 @@ import React from "react";
                 <div className="about-left ">
                   <div className="about-img">
                     <div className="img-reveal-1">
-                      <img src="assets/images/about/h2-about-banner.webp" alt="Image"/>
+                      <img src="/assets/images/about/h2-about-banner.webp" alt="Image"/>
                     </div>
                   </div>
                 </div>
@@ -30,10 +30,10 @@ import React from "react";
                   <div className="about-bottom">
                     <div className="about-logo tj-fade-anim" data-delay="0.3">
                       <div className="about-logo-icon">
-                        <img src="assets/images/logos/logo-icon.webp" alt=""/>
+                        <img src="/assets/images/logos/logo-icon.webp" alt=""/>
                       </div>
                       <div className="about-logo-text">
-                        <img src="assets/images/logos/logo-text.webp" alt=""/>
+                        <img src="/assets/images/logos/logo-text.webp" alt=""/>
                       </div>
                     </div>
                     <div className="about-features-wrap tj-fade-anim" data-delay="0.5">

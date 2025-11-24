@@ -4,7 +4,7 @@ export default function BlogSection() {
 	const blogs = [
 		{
 			id: 1,
-			img: "assets/images/blog/blog-1.webp",
+			img: "/assets/images/blog/blog-1.webp",
 			category: "Solutions",
 			author: "Ellinien Loma",
 			title: "How to Successfully Migrate Your Business to the Cloud",
@@ -15,7 +15,7 @@ export default function BlogSection() {
 		},
 		{
 			id: 2,
-			img: "assets/images/blog/blog-2.webp",
+			img: "/assets/images/blog/blog-2.webp",
 			category: "Focus",
 			author: "Ellinien Loma",
 			title: "Building a Stronger Workforce with IT Training",
@@ -26,7 +26,7 @@ export default function BlogSection() {
 		},
 		{
 			id: 3,
-			img: "assets/images/blog/blog-3.webp",
+			img: "/assets/images/blog/blog-3.webp",
 			category: "Software",
 			author: "Ellinien Loma",
 			title: "Optimizing Your IT Budget: Tips and Strategies",

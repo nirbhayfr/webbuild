@@ -5,7 +5,7 @@ export default function ContactSection() {
 		<section className="tj-contact-section fix section-gap section-gap-x">
 			<div
 				className="bg-img"
-				data-bg-image="assets/images/bg/common-bg-2.webp"
+				data-bg-image="/assets/images/bg/common-bg-2.webp"
 			></div>
 
 			<div className="container">
