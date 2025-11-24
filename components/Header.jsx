@@ -201,47 +201,36 @@ function Header() {
 						</div>
 
 						<div className="hamburger-infos">
-							<h5 className="hamburger-title">
-								Contact Info
-							</h5>
+							
+							<div className="home-link">
+							<a href="/"><h5 className="hamburger-title">
+								Home
+							</h5></a>
+                               </div>
 
-							<div className="contact-info">
-								<div className="contact-item">
-									<span className="subtitle">
-										Phone
-									</span>
-									<a
-										className="contact-link"
-										href="tel:10095447818"
-									>
-										+1 (009) 544-7818
-									</a>
+							<div className="About-info">
+								<a href="/about"><h5 className="hamburger-title">
+								About us
+							</h5></a>
 								</div>
-
-								<div className="contact-item">
-									<span className="subtitle">
-										Email
-									</span>
-									<a
-										className="contact-link"
-										href="mailto:info@tekmino.com"
-									>
-										info@tekmino.com
-									</a>
+								<div className="services-info">
+								<a href="/services"><h5 className="hamburger-title">
+								Services
+							</h5></a>
 								</div>
-
-								<div className="contact-item">
-									<span className="subtitle">
-										Location
-									</span>
-									<span className="contact-link">
-										993 Renner Burg, West Rond, MT
-										94251-030
-									</span>
+                            <div className="projects-info">
+								<a href="/projects"><h5 className="hamburger-title">
+								Projetcs
+							</h5></a>
+								</div>
+								<div className="contact-info">
+								<a href="/contact"><h5 className="hamburger-title">
+								Contact
+							</h5></a>
 								</div>
 							</div>
 						</div>
-					</div>
+					
 
 					<div className="hamburger-socials">
 						<h5 className="hamburger-title">Follow Us</h5>
@@ -282,8 +271,8 @@ function Header() {
 							</ul>
 						</div>
 					</div>
-				</div>
-			</div>
+				</div></div>
+		
 
 			{/* Mobile Hamburger Menu */}
 			<div
