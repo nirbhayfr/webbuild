@@ -329,46 +329,34 @@ function Header() {
 							<div className="mobile_menu"></div>
 						</div>
 
-						<div className="hamburger-infos">
-							<h5 className="hamburger-title">
-								Contact Info
-							</h5>
-							<div className="contact-info">
-								<div className="contact-item">
-									<span className="subtitle">
-										Phone
-									</span>
-									<a
-										className="contact-link"
-										href="tel:8089091313"
-									>
-										808-909-1313
-									</a>
-								</div>
-
-								<div className="contact-item">
-									<span className="subtitle">
-										Email
-									</span>
-									<a
-										className="contact-link"
-										href="mailto:info@tekmino.com"
-									>
-										info@tekmino.com
-									</a>
-								</div>
-
-								<div className="contact-item">
-									<span className="subtitle">
-										Location
-									</span>
-									<span className="contact-link">
-										993 Renner Burg, West Rond, MT
-										94251-030
-									</span>
-								</div>
-							</div>
+						<div className="home-infos">
+							<a href="/"><h5 className="hamburger-title">
+								Home
+							</h5></a>
 						</div>
+	                      <div className="about-infos">
+							<a href="/about"><h5 className="hamburger-title">
+								About us
+							</h5></a>
+						</div>
+	                   <div className="services-infos">
+							<a href="/services"><h5 className="hamburger-title">
+								Services
+							 </h5></a>
+						  </div>
+						<div className="project-infos">
+							<a href="/project"><h5 className="hamburger-title">
+								Projects
+							</h5></a>
+						</div>
+                           <div className="contact-infos">
+							<a href="/contact"><h5 className="hamburger-title">
+								Contact
+							</h5></a>
+						</div>
+
+
+
 					</div>
 
 					<div className="hamburger-socials">
