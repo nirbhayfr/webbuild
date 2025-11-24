@@ -1,7 +1,6 @@
-
 import React from "react";
 import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
-
+import "leaflet/dist/leaflet.css";
 
 const ContactSection = () => {
 	//  useEffect(() => {
@@ -121,30 +120,32 @@ const ContactSection = () => {
 							</div>
 						</div>
 						<div className="col-lg-6">
-							<div
-								className="map-area "
-								data-delay="0.5"
-							>
-								{/* <div id="map"></div> */}
-                  <div className="map-area tj-fade-anim" style={{ height: "600px" }}>
-  <MapContainer
-  center={[28.6270, 77.3688]}
-  zoom={14}
-  scrollWheelZoom={false}
-  className="map"
->
-  <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+							<div className="map-area " data-delay="0.5">
+								<div
+									className="map-area tj-fade-anim"
+									style={{ height: "600px" }}
+								>
+									<MapContainer
+										center={[28.627, 77.3688]}
+										zoom={14}
+										scrollWheelZoom={false}
+										attributionControl={false}
+										className="map"
+									>
+										<TileLayer url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}.png" />
 
-  <Marker position={[28.6270, 77.3688]}>
-    <Popup>
-      Noida Sector 62 – Our Location
-    </Popup>
-  </Marker>
-</MapContainer>
-
-</div>
-
-
+										<Marker
+											position={[
+												28.627, 77.3688,
+											]}
+										>
+											<Popup>
+												Noida Sector 62 –
+												Our Location
+											</Popup>
+										</Marker>
+									</MapContainer>
+								</div>
 							</div>
 						</div>
 					</div>
